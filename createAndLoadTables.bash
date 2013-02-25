@@ -9,6 +9,7 @@ for dataFile in   buildings.sql rooms.sql faculty_member.sql cart.sql cart_type.
     mysql --password='ta0163' --user=ataylor  < $dataFile
     echo "Poplulating table $(echo $dataFile | sed 's/\.sql//') completed."
 done
+	python ./scripts/populate_courses.py
 
 ## The above loop can be replace by these statements.
 ## mysql --password='yourMySQLpassword' --user=yourMySQLloginName  < employee.sql
@@ -17,4 +18,3 @@ done
 ## mysql --password='yourMySQLpassword' --user=yourMySQLloginName  < worksOn.sql
 ## mysql --password='yourMySQLpassword' --user=yourMySQLloginName  < deptLocation.sql
 ## mysql --password='yourMySQLpassword' --user=yourMySQLloginName  < department.sql
-

@@ -1,4 +1,4 @@
-USE ataylor;
+USE warboard;
 
 LOCK TABLES faculty_member WRITE;
 

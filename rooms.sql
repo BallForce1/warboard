@@ -1,10 +1,10 @@
-USE ataylor;
+USE warboard;
 
-LOCK TABLES rooms WRITE;
+LOCK TABLES room WRITE;
 
 SET foreign_key_checks = 0;
 
-INSERT INTO rooms VALUES
+INSERT INTO room VALUES
 ('STEV', '2001'),
 ('STEV', '2075'),
 ('STEV', '2079'),

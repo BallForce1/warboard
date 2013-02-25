@@ -1,4 +1,4 @@
-use ataylor;
+use warboard;
 BEGIN;
 set @@foreign_key_checks = 0;
 
@@ -9,15 +9,15 @@ CREATE TABLE buildings (
 	building_abbr		varchar(5)		NOT NULL UNIQUE
 );
 
-DROP TABLE IF EXISTS rooms;
+DROP TABLE IF EXISTS room;
 
-CREATE TABLE rooms (
+CREATE TABLE room (
 	building_abbr		varchar(20)		NOT NULL,
 	room_number			varchar(5)		NOT NULL,
 	PRIMARY KEY(building_abbr, room_number)
 );	
 
-ALTER TABLE rooms ADD CONSTRAINT room_bName_refs_building_bName FOREIGN KEY (building_abbr) REFERENCES buildings (building_abbr);
+ALTER TABLE room ADD CONSTRAINT room_bName_refs_building_bName FOREIGN KEY (building_abbr) REFERENCES buildings (building_abbr);
 
 DROP TABLE IF EXISTS faculty_member;
 
@@ -53,7 +53,7 @@ CREATE TABLE cart_equipment (
 	PRIMARY KEY(equipment_name, cart_type)
 );
 
-ALTER TABLE rooms ADD CONSTRAINT room_bName_refs_building_bName FOREIGN KEY (building_abbr) REFERENCES buildings (building_abbr);
+ALTER TABLE room ADD CONSTRAINT room_bName_refs_building_bName FOREIGN KEY (building_abbr) REFERENCES buildings (building_abbr);
 
 DROP TABLE IF EXISTS employee;
 
@@ -63,6 +63,27 @@ CREATE TABLE employee (
 	employee_id		varchar(9)			NOT NULL UNIQUE,
 	PRIMARY KEY(employee_id)
 );
+
+DROP TABLE IF EXISTS course; 
+
+CREATE TABLE course (
+	course_number		int				NOT NULL,
+	subject_abbr		varchar(5)		NOT NULL,
+	cat_number			varchar(5)		NOT NULL,
+	section_number		int				NOT NULL,
+	course_title		varchar(50)		NOT NULL,
+	number_units		int				NOT NULL,
+	days_of_week		varchar(5)		NOT NULL,
+	building_abbr		varchar(5)		NOT NULL,
+	room_number			varchar(5)		NOT NULL,
+	employee_id			varchar(9)		NOT NULL,
+	PRIMARY KEY(course_number)
+);
+
+ALTER TABLE course ADD CONSTRAINT building_abbr_refs_building_abbr FOREIGN KEY (building_abbr) REFERENCES buildings (building_abbr);
+ALTER TABLE course ADD CONSTRAINT room_number_refs_room_number FOREIGN KEY (room_number) REFERENCES room (room_number);
+ALTER TABLE course ADD CONSTRAINT employee_id_refs_employee_id FOREIGN KEY (employee_id) REFERENCES faculty_member (employee_id);
+
 
 set @@foreign_key_checks = 1;
 
