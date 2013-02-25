@@ -30,6 +30,6 @@ VERSION/CHANGELOG
 
 ### 0.0.1 [2-24-2013] #
 
-*updated database relations to correct database
-*updated mysql schema to create course table
-*created script to populate the coarse table
+* updated database relations to correct database
+* updated mysql schema to create course table
+* created script to populate the coarse table
