@@ -33,3 +33,6 @@ VERSION/CHANGELOG
 * updated database relations to correct database
 * updated mysql schema to create course table
 * created script to populate the coarse table
+
+
+Changes****
