@@ -1,12 +1,12 @@
 #! /bin/bash
 
 echo 'Creating DB schema starts'
-mysql --password='yourMySQLpassword' --user=yourMySQLloginName  < companyDBSchema.sql
+mysql --password='ta0163' --user=ataylor  < companyDBSchema.sql
 echo 'Creating DB schema ends'
 
 for dataFile in   employee.sql project.sql dependent.sql worksOn.sql deptLocation.sql department.sql; do
     echo "Poplulating table $(echo $dataFile | sed 's/\.sql//')."
-    mysql --password='yourMySQLpassword' --user=yourMySQLloginName  < $dataFile
+    mysql --password='ta0163' --user=ataylor  < $dataFile
     echo "Poplulating table $(echo $dataFile | sed 's/\.sql//') completed."
 done
 
@@ -17,4 +17,3 @@ done
 ## mysql --password='yourMySQLpassword' --user=yourMySQLloginName  < worksOn.sql
 ## mysql --password='yourMySQLpassword' --user=yourMySQLloginName  < deptLocation.sql
 ## mysql --password='yourMySQLpassword' --user=yourMySQLloginName  < department.sql
-

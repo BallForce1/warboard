@@ -12,7 +12,6 @@ INSERT INTO faculty_member VALUES
 ('Karen', 'Puckett', '155749572'),
 ('Patrick', 'Song', '382113623'),
 ('Elsie', 'Hamilton', '945232373'),
-('Hazel', 'Bender', '967669742'),
 ('Malcolm', 'Wagner', '335812465'),
 ('Dolores', 'McLaughlin', '615613471'),
 ('Francis', 'McNamara', '631922351'),
@@ -45,7 +44,7 @@ INSERT INTO faculty_member VALUES
 ('Beth', 'Walton', '416932854'),
 ('Erica', 'Hall', '059148715'),
 ('Douglas', 'Ross', '396771195'),
-('Donald', 'Chung', '820441717'),
+('Donald', 'Chang', '820441717'),
 ('Katherine', 'Bender', '498017905'),
 ('Paul', 'Woods', '573831076');
 

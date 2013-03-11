@@ -2,19 +2,19 @@ Class
 Nbr    Footnotes Subj Cat#  Sect GE   Title                          UnitsTyp Bas Days    SpecialDates  BldgRm     Instructor
 American Multicultural Studies
 ------------------------------------------------------------------------------------------------------------------------------
-3830             AMCS 160B  001  C3    Humanities Learning Community   2.0 LEC GRD T       01:00P-02:50P CARS0068   K Hester-Williams
-                                                                                                         CARS0068   M Ezra
-2108             AMCS 200   001  A1    Written and Oral Analysis       3.0 LEC OPT W       01:00P-03:40P NICH0173   M Ezra
-1762   16        AMCS 210   001  *ET   Ethnic Groups in America        4.0 LEC OPT R       01:00P-04:40P STEV2006   C Baker
+3830             AMCS 160B  001  C3    Humanities Learning Community   2.0 LEC GRD T       01:00P-02:50P CARS0068   K Chung
+                                                                                                         CARS0068   P Chen
+2108             AMCS 200   001  A1    Written and Oral Analysis       3.0 LEC OPT W       01:00P-03:40P NICH0173   P Chen
+1762   16        AMCS 210   001  *ET   Ethnic Groups in America        4.0 LEC OPT R       01:00P-04:40P STEV2006   S Melton
                                  D1
-3825             AMCS 225   001  *ET   How Racism Works: Amer in B&W   4.0 LEC GRD MW      10:00A-11:50A CARS0068   M Ezra
+3825             AMCS 225   001  *ET   How Racism Works: Amer in B&W   4.0 LEC GRD MW      10:00A-11:50A CARS0068   P Chen
                                  C2
-2109             AMCS 350   001  *ET   Ethics,Values&Multiculturalsm   4.0 LEC OPT MW      10:00A-11:50A NICH0204   E Strobel
+2109             AMCS 350   001  *ET   Ethics,Values&Multiculturalsm   4.0 LEC OPT MW      10:00A-11:50A NICH0204   G Hill
                                  C2
-2070             AMCS 392   001  *ET   Ethnic Images in Film&Media     4.0 LEC GRD M       02:00P-05:40P SALZ2020   C Baker
+2070             AMCS 392   001  *ET   Ethnic Images in Film&Media     4.0 LEC GRD M       02:00P-05:40P SALZ2020   S Melton
                                  C1
-1760   7         AMCS 480   001        Research and Methodology        4.0 SEM OPT W       02:00P-05:40P SALZ2020   C Baker
-3826             AMCS 481   001  C2    Special Topics                  4.0 SEM OPT MW      02:00P-03:50P NICH0204   E Strobel
+1760   7         AMCS 480   001        Research and Methodology        4.0 SEM OPT W       02:00P-05:40P SALZ2020   S Melton
+3826             AMCS 481   001  C2    Special Topics                  4.0 SEM OPT MW      02:00P-03:50P NICH0204   G Hill
 Anthropology
 ------------------------------------------------------------------------------------------------------------------------------
 1249             ANTH 200   001  D5    Intro to Linguistic Anthro      3.0 LEC OPT MW      04:00P-05:15P STEV3008   R Senghas
@@ -485,7 +485,7 @@ Business Administration
 1596   1,2       BUS  367   001        Consumer Behavior               4.0 DIS GRD TR      08:00A-09:50A STEV3026   T Clarke
 1648             BUS  367   002        Consumer Behavior               4.0 DIS GRD TR      10:00A-11:50A STEV3026   T Clarke
 1576   1,2       BUS  370   001        Intro Managerial Finance        4.0 DIS GRD MW      08:00A-09:50A SALZ2016   A Hu
-1577   1,2       BUS  370   002        Intro Managerial Finance        4.0 DIS GRD MW      10:00A-11:50A STEV2052   M Santos
+1577   1,2       BUS  370   002        Intro Managerial Finance        4.0 DIS GRD MW      10:00A-11:50A STEV2052   N Middleton
 1578   1,2       BUS  370   003        Intro Managerial Finance        4.0 DIS GRD W       06:00P-09:40P STEV2049   A Hu
 1696             BUS  385   001        Services Marketing              4.0 LEC GRD F       08:00A-11:40A STEV3026   R CampbellClass                                                                           
 Nbr    Footnotes Subj Cat#  Sect GE   Title                          UnitsTyp Bas Days    SpecialDates  BldgRm     Instructor
@@ -520,7 +520,7 @@ Nbr    Footnotes Subj Cat#  Sect GE   Title                          UnitsTyp Ba
 1580   1,2       BUS  470   001        Managerial Finance              4.0 DIS GRD MW      02:00P-03:50P STEV2049   A Hu
 1622             BUS  472   001        Investments                     4.0 DIS GRD TR      10:00A-11:50A STEV2049   D Jordan
 1666             BUS  474   001        Computer Apps in Finance        4.0 DIS GRD TR      01:00P-02:50P SALZ2015   D Jordan
-1670             BUS  476   001        Risk Management and Insurance   4.0 LEC GRD TR      03:00P-04:50P DARW0107   M Santos
+1670             BUS  476   001        Risk Management and Insurance   4.0 LEC GRD TR      03:00P-04:50P DARW0107   N Middleton
 1582   1,2,36    BUS  491   001        Seminar Mgmt Strategy & Policy  4.0 SEM GRD MW      10:00A-11:50A STEV2050   A Gilinsky
 1583   1,2,36    BUS  491   002        Seminar Mgmt Strategy & Policy  4.0 SEM GRD MW      02:00P-03:50P STEV2050   A Gilinsky
 1584   1,2,36    BUS  491   003        Seminar Mgmt Strategy & Policy  4.0 SEM GRD M       06:00P-09:40P STEV3026   J Robison
@@ -658,10 +658,10 @@ Nbr    Footnotes Subj Cat#  Sect GE   Title                          UnitsTyp Ba
                                                                                                          DARW0107   M Su
 Chicano & Latino Studies
 ------------------------------------------------------------------------------------------------------------------------------
-3832             CALS 160B  001  C3    Humanities Learning Community   2.0 LEC GRD M       02:00P-03:50P CARS0068   P Kim
+3832             CALS 160B  001  C3    Humanities Learning Community   2.0 LEC GRD M       02:00P-03:50P CARS0068   P Wilkerson
 1970   13        CALS 219   001  *ET   The Latino Experience           3.0 LEC OPT MW      04:00P-05:15P NICH0204   STAFF
                                  D1
-3828             CALS 350   001        Latino Cultural Studies         4.0 DIS GRD MW      10:00A-11:50A NICH0173   P Kim
+3828             CALS 350   001        Latino Cultural Studies         4.0 DIS GRD MW      10:00A-11:50A NICH0173   P Wilkerson
 2267   16        CALS 374   001  *ET   Latino Literature               4.0 DIS OPT F       01:00P-04:40P SALZ2025   STAFF
                                  C2
 3829             CALS 393   001  *ET   Chicano/Latino Cinema           4.0 DIS OPT W       08:00A-11:40A STEV2006   R Lopez
@@ -673,7 +673,7 @@ Chicano & Latino Studies
 1956             CALS 445   001        Chicano/Latino History          4.0 DIS OPT MW      02:00P-03:50P NICH0242   R Lopez
 2175             CALS 451   001  *ET   Latina/o Humanisms              4.0 DIS OPT MW      08:00A-09:50A NICH0204   D Malpica
                                  C3
-2266             CALS 458   001        CALS Research and Methodology   4.0 SEM OPT W       02:00P-05:40P SALZ2020   C Baker
+2266             CALS 458   001        CALS Research and Methodology   4.0 SEM OPT W       02:00P-05:40P SALZ2020   S Melton
 Communication Studies
 ------------------------------------------------------------------------------------------------------------------------------
 2006   2         COMS 200   001        Principles of Mass Communicati  4.0 SEM GRD MW      10:00A-11:50A ARTS0108   E Beebout
@@ -994,7 +994,7 @@ English
 2123   1         ENGL 100B  012  A2    First-Year Composition          3.0 DIS GRD MW      04:00P-05:15P SALZ2019   J Friscia
 2124   1         ENGL 100B  013  A2    First-Year Composition          3.0 DIS GRD TR      10:45A-12:00P IVES0034   S Shipley
 2125   1         ENGL 100B  014  A2    First-Year Composition          3.0 DIS GRD MW      10:45A-12:00P NICH0166   J Friscia
-2126   1         ENGL 100B  015  A2    First-Year Composition          3.0 DIS GRD MW      10:45A-12:00P IVES0035   D Bozman-Moss
+2126   1         ENGL 100B  015  A2    First-Year Composition          3.0 DIS GRD MW      10:45A-12:00P IVES0035   W Connolly
 2128   1         ENGL 100B  017  A2    First-Year Composition          3.0 DIS GRD TR      10:45A-12:00P STEV2083   J Simmons
 2129   1         ENGL 100B  019  A2    First-Year Composition          3.0 DIS GRD TR      08:00A-09:15A STEV3076   J Simmons
 2132   1         ENGL 100B  022  A2    First-Year Composition          3.0 DIS GRD TR      09:20A-10:35A NICH0242   A Evins
@@ -1041,7 +1041,7 @@ Nbr    Footnotes Subj Cat#  Sect GE   Title                          UnitsTyp Ba
 2115   11        ENGL 207   001  C1    Intro to Creative Writing       4.0 SEM OPT T       05:00P-08:40P SALZ1051   N Oxenhandler
 2075   1,11      ENGL 214   001  C2    Literature of the World         4.0 DIS GRD T       01:00P-04:40P NICH0166   C Wo
 4075             ENGL 236   001        Later British & American Lit.   4.0 LEC OPT         ARRANGE
-2144             ENGL 237   001        Survey: Early American Lit      4.0 LEC OPT MW      04:00P-05:50P GMC1057    T Wandling
+2144             ENGL 237   001        Survey: Early American Lit      4.0 LEC OPT MW      04:00P-05:50P GMC1057    D Monroe
 1798             ENGL 301   001        Literary Analysis: Seminar      4.0 SEM OPT MW      12:00P-01:50P SALZ1051   C Wo
 2229             ENGL 301   002        Literary Analysis: Seminar      4.0 SEM OPT TR      01:00P-02:50P SALZ1051   B Bryant
 2230             ENGL 303   001        Special Studies in Composition  2.0 DIS GRD         ARRANGE                  S Miller
@@ -1052,7 +1052,7 @@ Nbr    Footnotes Subj Cat#  Sect GE   Title                          UnitsTyp Ba
 1726   1         ENGL 368   001        Small Press Editing: ZAUM       4.0 SEM OPT T       01:00P-04:40P NICH0320   G Conoley
 3943             ENGL 373   001        Introduction to Drama           4.0 LEC OPT TR      10:00A-11:50A SALZ1051   W Babula
 2155   28,32     ENGL 375   001        Advanced Composition            4.0 DIS GRD M       06:00P-09:40P NICH0166   STAFF
-3944             ENGL 377   001        Film&Lit: American Adaptations  4.0 LEC OPT TR      10:00A-11:50A SALZ2019   K Hester-Williams
+3944             ENGL 377   001        Film&Lit: American Adaptations  4.0 LEC OPT TR      10:00A-11:50A SALZ2019   K Chung
 1752             ENGL 379   001        Struc Engl:Pedagogical Grammar  4.0 LEC OPT TR      10:00A-11:50A STEV3076   C Kroll
 2249             ENGL 407   001        Advanced Fiction Writing        4.0 SEM OPT TR      10:00A-11:50A STEV3028   S Jaffe
 2232   1         ENGL 418   001        Adv Poetry Writing & Poetics    4.0 SEM OPT M       02:00P-05:40P NICH0320   G Conoley
@@ -1065,7 +1065,7 @@ Nbr    Footnotes Subj Cat#  Sect GE   Title                          UnitsTyp Ba
 1941   3         ENGL 435   006        Directed Writing - Fiction      8.0 SUP OPT         ARRANGE                  S Jaffe
 3946             ENGL 436   001        Postcolonial Literature         4.0 LEC OPT TR      03:00P-04:50P SALZ1051   C Kroll
 2233             ENGL 439   001        Studies in Shakespeare          4.0 LEC OPT W       06:00P-09:40P NICH0173   J Kunat
-2234             ENGL 450   001        19th C. American Literature     4.0 LEC OPT MW      10:00A-11:50A SALZ2020   K Hester-Williams
+2234             ENGL 450   001        19th C. American Literature     4.0 LEC OPT MW      10:00A-11:50A SALZ2020   K Chung
 2079   3         ENGL 460   001        Teaching Assistant in English   1.0 SUP OPT         ARRANGE                  STAFF
 2080   3         ENGL 460   002        Teaching Assistant in English   2.0 SUP OPT         ARRANGE                  STAFF
 2081   3         ENGL 460   003        Teaching Assistant in English   3.0 SUP OPT         ARRANGE                  STAFF
@@ -1078,7 +1078,7 @@ Nbr    Footnotes Subj Cat#  Sect GE   Title                          UnitsTyp Ba
 4006             ENGL 481   001        Studies in British Literature   4.0 SEM OPT F       01:00P-04:40P SALZ2020   B Bryant
 2011             ENGL 492   001        Reading and Responding to Lit   4.0 LEC OPT R       01:00P-04:40P STEV3049   D Cain
                                                                                                          STEV3049   M Katz
-4095             ENGL 494   001        Advanced Survey                 4.0 SEM CNC         ARRANGE                  T Wandling
+4095             ENGL 494   001        Advanced Survey                 4.0 SEM CNC         ARRANGE                  D Monroe
 2049             ENGL 496   001        English Educ. Capstone Seminar  4.0 SEM GRD M       06:00P-09:40P SALZ1051   M Katz
 2029   33        ENGL 530   001        Cross-Genre Workshop            4.0 SEM GRD T       05:00P-08:40P NICH0320   G Conoley
 1728   3         ENGL 535   001        Directed Writing - Poetry       2.0 SUP OPT         ARRANGE                  G Conoley
@@ -1093,13 +1093,13 @@ Nbr    Footnotes Subj Cat#  Sect GE   Title                          UnitsTyp Ba
 1947   3         ENGL 535   010        Directed Writing - Poetry       6.0 SUP OPT         ARRANGE                  G Conoley
 1948   3         ENGL 535   011        Directed Writing - Non-Fiction  6.0 SUP OPT         ARRANGE                  N Oxenhandler
 1949   3         ENGL 535   012        Directed Writing - Fiction      6.0 SUP OPT         ARRANGE                  S Jaffe
-1793   6         ENGL 578   001        Project Continuation            3.0 SUP CNC         ARRANGE                  T Wandling
-2160             ENGL 578   002        Project Continuation            4.0 SUP CNC         ARRANGE                  T Wandling
+1793   6         ENGL 578   001        Project Continuation            3.0 SUP CNC         ARRANGE                  D Monroe
+2160             ENGL 578   002        Project Continuation            4.0 SUP CNC         ARRANGE                  D Monroe
 3947             ENGL 581   001        Seminar: British Literature     4.0 SEM OPT R       05:00P-08:40P SALZ2019   C Wo
 4209             ENGL 587   001        Seminar: Rhetorical Theory      4.0 SEM OPT MW      10:00A-11:50A SALZ1051   S Miller
-1937   3,6       ENGL 597   001        Directed Reading                3.0 SUP CNC         ARRANGE                  T Wandling
-1745   1,6       ENGL 599   001        Thesis & Accomp Dir Reading     3.0 SUP OPT         ARRANGE                  T Wandling
-1885   1,6       ENGL 599   002        Thesis & Accomp Dir Reading     6.0 SUP OPT         ARRANGE                  T Wandling
+1937   3,6       ENGL 597   001        Directed Reading                3.0 SUP CNC         ARRANGE                  D Monroe
+1745   1,6       ENGL 599   001        Thesis & Accomp Dir Reading     3.0 SUP OPT         ARRANGE                  D Monroe
+1885   1,6       ENGL 599   002        Thesis & Accomp Dir Reading     6.0 SUP OPT         ARRANGE                  D Monroe
 Environmental Studies
 ------------------------------------------------------------------------------------------------------------------------------
 1026   1,11,55   ENSP 200   001  D5    Global Environmental Issues     3.0 LEC OPT TR      01:00P-02:15P STEV1002   E Peterson
@@ -1291,7 +1291,7 @@ History
 1057   1,59      HIST 202   002  D2    Development of Modern World     3.0 LEC OPT MW      02:30P-03:45P STEV3008   M Halavais
 1217   1         HIST 202   003  D2    Development of Modern World     3.0 LEC OPT MW      09:20A-10:35A STEV3072   M Stevens
 4192   5,59      HIST 202   004  D2    Development of Modern World     3.0 LEC OPT MW      02:30P-03:45P STEV3008   M Halavais
-1256   1         HIST 242   001  D3    Hist of AmericasSinceIndep      3.0 LEC OPT F       09:00A-11:40A SALZ2013   T Alfaro Velcamp
+1256   1         HIST 242   001  D3    Hist of AmericasSinceIndep      3.0 LEC OPT F       09:00A-11:40A SALZ2013   D Chang
 1055   1         HIST 251   001  D3    History of U.S. to 1877         3.0 LEC OPT F       09:00A-11:40A STEV2006   M Miller
 1172   1,59      HIST 251   002  D3    History of U.S. to 1877         3.0 LEC OPT TR      09:20A-10:35A STEV3008   K Noonan
 1209   1         HIST 251   003  D3    History of U.S. to 1877         3.0 LEC OPT MW      04:00P-05:15P DARW0102   J Markay
@@ -1303,9 +1303,9 @@ History
 1171   1         HIST 252   003  D3    History U.S. Since 1865         3.0 LEC OPT MW      01:00P-02:15P STEV3008   M Miller
 1312   1         HIST 252   004  D3    History U.S. Since 1865         3.0 LEC OPT MW      05:25P-06:40P STEV3008   M Miller
 4145             HIST 252   005  D3    History U.S. Since 1865         3.0 LEC OPT MW      04:00P-05:15P GMC1058    M Miller
-4054   8         HIST 345   001        Women's Hist & Women's Activ    3.0 LEC GRD R       09:00A-11:40A CARS0020   L McQuade
+4054   8         HIST 345   001        Women's Hist & Women's Activ    3.0 LEC GRD R       09:00A-11:40A CARS0020   E Barton
 3716             HIST 371   001        The Novel in History            4.0 LEC OPT W       02:00P-05:40P STEV2079   K Noonan
-1354             HIST 372   001        Arabs in the Americas           4.0 DIS OPT F       01:00P-04:40P SALZ2013   T Alfaro Velcamp
+1354             HIST 372   001        Arabs in the Americas           4.0 DIS OPT F       01:00P-04:40P SALZ2013   D Chang
 3727             HIST 372   002        Spanish Inquisition             4.0 DIS OPT MW      06:00P-07:50P STEV2079   M Halavais
 1355             HIST 375   001        American Creed: Right/Wrong?    4.0 DIS OPT T       08:00A-11:40A SALZ2013   A KittelstromClass                                                                           
 Nbr    Footnotes Subj Cat#  Sect GE   Title                          UnitsTyp Bas Days    SpecialDates  BldgRm     Instructor
@@ -1318,8 +1318,8 @@ Nbr    Footnotes Subj Cat#  Sect GE   Title                          UnitsTyp Ba
 3721             HIST 422   001        Imperial Spain                  4.0 LEC OPT MW      04:00P-05:50P SALZ2013   M Halavais
 3722             HIST 426   001        Britain and Ireland 1399-1714   4.0 LEC OPT TR      01:00P-02:50P SALZ2013   K Noonan
 3723             HIST 435   001        History of Modern China         4.0 DIS OPT MW      02:00P-03:50P SALZ2013   R Dodgen
-4055             HIST 447   001        Queer Theory, Queer Lives       4.0 LEC GRD MW      12:00P-01:50P CARS0020   D Romesburg
-4147   8         HIST 449   001        Gender & Sexuality:Latin Amer   4.0 LEC OPT T       08:00A-11:40A STEV2079   T Alfaro Velcamp
+4055             HIST 447   001        Queer Theory, Queer Lives       4.0 LEC GRD MW      12:00P-01:50P CARS0020   K Bender
+4147   8         HIST 449   001        Gender & Sexuality:Latin Amer   4.0 LEC OPT T       08:00A-11:40A STEV2079   D Chang
 3724             HIST 454   001        Civil War and Reconstruction    4.0 DIS OPT TR      10:00A-11:50A IVES0079   M Jolly
 3725             HIST 458   001        Modern America since WW II      4.0 DIS OPT MW      12:00P-01:50P SALZ2013   S Estes Jr
 4203   8         HIST 467   001        Landscapes of the American Wes  3.0 SEM GRD T       01:00P-03:40P ENTC       L Watt
@@ -1341,10 +1341,10 @@ Human Development
 1420             HD   490   002        Senior Project                  1.0 SEM GRD T       03:00P-03:50P STEV3077   R Butterfield
 ITDS
 ------------------------------------------------------------------------------------------------------------------------------
-3546             ITDS 499   001        Senior Project                  3.0 SUP GRD         ARRANGE                  H Kornfeld
-3480   1,6       ITDS 578   001        Project Continuation           ***  SUP CNC         ARRANGE                  H Kornfeld
-3477             ITDS 599A  001        Thesis and ITDS Research       ***  SUP GRD         ARRANGE                  H Kornfeld
-3478             ITDS 599B  001        Thesis and ITDS Research        2.0 SUP GRD         ARRANGE                  H Kornfeld
+3546             ITDS 499   001        Senior Project                  3.0 SUP GRD         ARRANGE                  T Watts
+3480   1,6       ITDS 578   001        Project Continuation           ***  SUP CNC         ARRANGE                  T Watts
+3477             ITDS 599A  001        Thesis and ITDS Research       ***  SUP GRD         ARRANGE                  T Watts
+3478             ITDS 599B  001        Thesis and ITDS Research        2.0 SUP GRD         ARRANGE                  T Watts
 Jewish Studies
 ------------------------------------------------------------------------------------------------------------------------------
 2242             JWST 200   001        Introduction to Jewish Studies  3.0 LEC GRD R       07:00P-09:40P GMC1058    H Shreibman
@@ -1497,8 +1497,8 @@ Nbr    Footnotes Subj Cat#  Sect GE   Title                          UnitsTyp Ba
 3345             KIN  599   007        Culminating Project             3.0 SUP OPT         ARRANGE                  W Boda
 Liberal Studies Hutchins
 ------------------------------------------------------------------------------------------------------------------------------
-1898   2,4,18    LIBS 102   001        In Search of Self              12.0 SEM OPT MWF     09:00A-12:00P CARS0038   M Anderson
-       2,4,18    LIBS 102   002        In Search of Self                   SUP     F       01:00P-03:40P CARS0068   M Anderson
+1898   2,4,18    LIBS 102   001        In Search of Self              12.0 SEM OPT MWF     09:00A-12:00P CARS0038   G Goldstein
+       2,4,18    LIBS 102   002        In Search of Self                   SUP     F       01:00P-03:40P CARS0068   G Goldstein
 1900   2,4,18    LIBS 102   003        In Search of Self              12.0 SEM OPT MWF     09:00A-12:00P CARS0034   F Vazquez
        2,4,18    LIBS 102   004        In Search of Self                   SUP     F       01:00P-03:40P CARS0068   F Vazquez
 1902   2,4,18    LIBS 102   005        In Search of Self              12.0 SEM OPT MWF     09:00A-12:00P CARS0061   E McGuckin
@@ -1922,23 +1922,23 @@ Philosophy
 1859   13        PHIL 101   010  A3    Critical Thinking               4.0 DIS OPT MW      02:00P-03:50P SALZ2019   STAFF
 2177             PHIL 101   011  A3    Critical Thinking               4.0 DIS OPT MW      12:00P-01:50P STEV3028   STAFF
 1860             PHIL 101   012  A3    Critical Thinking               4.0 DIS OPT MW      04:00P-05:50P STEV2006   STAFF
-3837             PHIL 101B  001  A3    Critical Thinking               2.0 LEC GRD T       03:00P-04:50P STEV2083   M Ezra
-                                                                                                         STEV2083   K Hester-Williams
-3904             PHIL 101B  002  A3    Critical Thinking               2.0 LEC GRD R       01:00P-02:50P NICH0204   M Ezra
-                                                                                                         NICH0204   K Hester-Williams
-3905             PHIL 101B  003  A3    Critical Thinking               2.0 LEC GRD R       03:00P-04:50P STEV2083   M Ezra
-                                                                                                         STEV2083   K Hester-Williams
+3837             PHIL 101B  001  A3    Critical Thinking               2.0 LEC GRD T       03:00P-04:50P STEV2083   P Chen
+                                                                                                         STEV2083   K Chung
+3904             PHIL 101B  002  A3    Critical Thinking               2.0 LEC GRD R       01:00P-02:50P NICH0204   P Chen
+                                                                                                         NICH0204   K Chung
+3905             PHIL 101B  003  A3    Critical Thinking               2.0 LEC GRD R       03:00P-04:50P STEV2083   P Chen
+                                                                                                         STEV2083   K Chung
 3906             PHIL 101B  004  A3    Critical Thinking               2.0 LEC GRD T       01:00P-02:50P ARTS0102   J Roberson
                                                                                                          ARTS0102   J Shaw
 3907             PHIL 101B  005  A3    Critical Thinking               2.0 LEC GRD T       01:00P-02:50P ARTS0108   J Roberson
                                                                                                          ARTS0108   J Shaw
 3908             PHIL 101B  006  A3    Critical Thinking               2.0 LEC GRD T       03:00P-04:50P ARTS0108   J Roberson
                                                                                                          ARTS0108   J Shaw
-3909             PHIL 101B  007  A3    Critical Thinking               2.0 LEC GRD M       04:00P-05:50P STEV2083   P Kim
+3909             PHIL 101B  007  A3    Critical Thinking               2.0 LEC GRD M       04:00P-05:50P STEV2083   P Wilkerson
                                                                                                          STEV2083   A Goldman
-3910             PHIL 101B  008  A3    Critical Thinking               2.0 LEC GRD W       02:00P-03:50P NICH0304   P Kim
+3910             PHIL 101B  008  A3    Critical Thinking               2.0 LEC GRD W       02:00P-03:50P NICH0304   P Wilkerson
                                                                                                          NICH0304   A Goldman
-3911             PHIL 101B  009  A3    Critical Thinking               2.0 LEC GRD W       04:00P-05:50P STEV2083   P Kim
+3911             PHIL 101B  009  A3    Critical Thinking               2.0 LEC GRD W       04:00P-05:50P STEV2083   P Wilkerson
                                                                                                          STEV2083   A Goldman
 3912             PHIL 101B  010  A3    Critical Thinking               2.0 LEC GRD R       01:00P-02:50P NICH0166   R Train
                                                                                                          NICH0166   C Vollmer
@@ -1960,11 +1960,11 @@ Nbr    Footnotes Subj Cat#  Sect GE   Title                          UnitsTyp Ba
 3920             PHIL 101B  018  A3    Critical Thinking               2.0 LEC GRD W       04:00P-05:50P NICH0304   J Glasgow
                                                                                                          NICH0304   J Sullins III
 3921             PHIL 101B  019  A3    Critical Thinking               2.0 LEC GRD T       01:00P-02:50P NICH0204   A Wallace
-                                                                                                         NICH0204   D Bozman-Moss
+                                                                                                         NICH0204   W Connolly
 3922             PHIL 101B  020  A3    Critical Thinking               2.0 LEC GRD T       03:00P-04:50P NICH0304   A Wallace
-                                                                                                         NICH0304   D Bozman-Moss
+                                                                                                         NICH0304   W Connolly
 3923             PHIL 101B  021  A3    Critical Thinking               2.0 LEC GRD R       03:00P-04:50P NICH0304   A Wallace
-                                                                                                         NICH0304   D Bozman-Moss
+                                                                                                         NICH0304   W Connolly
 3924             PHIL 101B  022  A3    Critical Thinking               2.0 LEC GRD M       04:00P-05:50P IVES0079   C Cali
 3925             PHIL 101B  023  A3    Critical Thinking               2.0 LEC GRD M       04:00P-05:50P ARTS0108   J Navas
 3926             PHIL 101B  024  A3    Critical Thinking               2.0 LEC GRD M       02:00P-03:50P STEV2083   S Horstein
@@ -1977,7 +1977,7 @@ Nbr    Footnotes Subj Cat#  Sect GE   Title                          UnitsTyp Ba
 3903             PHIL 160B  001  C3    Humanities Learning Community   2.0 LEC GRD W       02:00P-03:50P CARS0068   J Glasgow
                                                                                                          CARS0068   J Sullins III
 3835             PHIL 160B  002  C3    Humanities Learning Community   2.0 LEC GRD R       01:00P-02:50P CARS0068   A Wallace
-                                                                                                         CARS0068   D Bozman-Moss
+                                                                                                         CARS0068   W Connolly
 2065             PHIL 204   001        Applied Ethics                  4.0 DIS OPT TR      01:00P-02:50P NICH0242   S Parker
 1773             PHIL 302   001  C3    Ethic&ValuTheory:At the Movies  4.0 DIS OPT TR      03:00P-04:50P SALZ2020   A Wallace
 2066             PHIL 306   001        Contemporary Topics in Phil     4.0 DIS OPT M       02:00P-05:40P NICH0173   A Wallace
@@ -2051,7 +2051,7 @@ Nbr    Footnotes Subj Cat#  Sect GE   Title                          UnitsTyp Ba
 1311   11        POLS 200   009  D4    American Political System       3.0 DIS OPT F       09:00A-11:40A STEV3008   R Switky
 1427             POLS 200   010  D4    American Political System       3.0 DIS OPT M       07:00P-09:40P STEV3008   K Bucy
 1031   11        POLS 201   001  D5    Ideas and Institutions          4.0 DIS OPT TR      03:00P-04:50P STEV2075   B Preisler
-1230   43        POLS 202   001  D4    Issues in Mod Amer Politics     4.0 LEC OPT MW      10:00A-11:50A SALZ2021   C Boaz
+1230   43        POLS 202   001  D4    Issues in Mod Amer Politics     4.0 LEC OPT MW      10:00A-11:50A SALZ2021   S Hawkins
 1014             POLS 302   001        Soc Science Res Methods         4.0 DIS OPT MW      02:00P-03:50P STEV2075   D McCuan
        30        POLS 302   002        Soc Science Res Methods             LAB     MW      04:00P-04:50P            D McCuan
 1173             POLS 303   001        Comparative Political Analysis  4.0 LEC OPT TR      01:00P-02:50P STEV2075   D Parness
@@ -2059,7 +2059,7 @@ Nbr    Footnotes Subj Cat#  Sect GE   Title                          UnitsTyp Ba
 3728             POLS 312   001        American Political Thought      4.0 LEC OPT MW      10:00A-11:50A STEV2075   C Nelson
 1050   11        POLS 315   001  D5    Modern Political Ideologies     4.0 LEC OPT MW      04:00P-05:50P STEV2075   D Ziblatt
 1294             POLS 315   002  D5    Modern Political Ideologies     4.0 LEC OPT T       05:00P-08:40P STEV2075   A Merrifield
-1116   3,4,18    POLS 345   001        Model United Nations: New York  4.0 LEC OPT W       06:00P-09:40P STEV2075   C Boaz
+1116   3,4,18    POLS 345   001        Model United Nations: New York  4.0 LEC OPT W       06:00P-09:40P STEV2075   S Hawkins
 3729             POLS 420   001        American Political Development  4.0 LEC OPT MW      12:00P-01:50P STEV2075   D Ziblatt
 3730             POLS 421   001        Federal & Intergovernment Rel   4.0 SEM OPT R       05:00P-08:40P STEV2075   D McCuan
 1266   2,8,12    POLS 423   001        Intro to Constitutional Law     4.0 DIS OPT MW      02:00P-03:50P SALZ2025   E Williams
@@ -2098,14 +2098,14 @@ Nbr    Footnotes Subj Cat#  Sect GE   Title                          UnitsTyp Ba
 1295   32        PSY  313   001        Careers in Psychology           2.0 LEC OPT R       08:00A-09:50A STEV3077   M Heery
 4003   1,32      PSY  322   001        Myth, Dream and Symbol          4.0 SEM OPT F       01:00P-04:40P STEV3042   M Gomes
 4200   11        PSY  326   001        Social Psychology               4.0 LEC OPT TR      03:00P-04:50P STEV3046   L Naumann
-4201   11        PSY  326   002  D1    Social Psychology               4.0 LEC OPT W       08:00A-11:40A STEV3046   M Paolucci
+4201   11        PSY  326   002  D1    Social Psychology               4.0 LEC OPT W       08:00A-11:40A STEV3046   D Ross
 1245   2,12      PSY  328   001        Cross-cultural Psychology       4.0 LEC GRD TR      10:00A-11:50A STEV3077   E Velasquez-Andrade
 1189   7,18,29   PSY  338   001        Psychology of Creativity        4.0 LEC OPT T       08:00A-11:40A STEV3044   G Olson
 1296   2,32      PSY  358   001        Health Psychology               4.0 SEM GRD M       08:00A-11:40A STEV3046   G Brassington
 1297   2,32      PSY  360   001        Peak Performance Psychology     4.0 SEM GRD W       08:00A-11:40A STEV3042   G Brassington
-1190   1         PSY  380   001        Psychological Research Methods  4.0 DIS OPT TR      10:00A-11:50A STEV2001   M Paolucci
+1190   1         PSY  380   001        Psychological Research Methods  4.0 DIS OPT TR      10:00A-11:50A STEV2001   D Ross
 1300   1         PSY  380   002        Psychological Research Methods  4.0 DIS OPT W       02:00P-05:40P STEV3042   L Naumann
-1317   8,32      PSY  405   001        The Psychology of Gender        4.0 SEM OPT M       08:00A-11:40A STEV3077   M Paolucci
+1317   8,32      PSY  405   001        The Psychology of Gender        4.0 SEM OPT M       08:00A-11:40A STEV3077   D Ross
 1364   8,12      PSY  408   001        Transitions in Adult Dev        4.0 SEM OPT F       08:00A-11:40A STEV2001   G Bogart
 1215   1,12      PSY  410   001        Child Development               4.0 LEC OPT T       08:00A-11:40A STEV3046   M Garvin
 1191   1,12      PSY  411   001        Behav'l&Emot'l Prblms ofChldrn  4.0 SEM OPT M       02:00P-05:40P STEV3046   D Schneider
@@ -2340,57 +2340,57 @@ Nbr    Footnotes Subj Cat#  Sect GE   Title                          UnitsTyp Ba
 Nbr    Footnotes Subj Cat#  Sect GE   Title                          UnitsTyp Bas Days    SpecialDates  BldgRm     Instructor
 University & Freshman Studies
 ------------------------------------------------------------------------------------------------------------------------------
-3482             UNIV 150B  001  A3    FYE:Identity&Global Challenges  4.0 SEM GRD MW      02:00P-03:50P SALZ2023   M Anderson
-                                 C3                                                W       12:00P-12:50P IVES0101   M Anderson
+3482             UNIV 150B  001  A3    FYE:Identity&Global Challenges  4.0 SEM GRD MW      02:00P-03:50P SALZ2023   G Goldstein
+                                 C3                                                W       12:00P-12:50P IVES0101   G Goldstein
 3483             UNIV 150B  002  A3    FYE:Identity&Global Challenges  4.0 SEM GRD TR      03:00P-04:50P STEV2001   D Kindy
                                  C3                                                W       12:00P-12:50P IVES0101   D Kindy
 3484             UNIV 150B  003  A3    FYE:Identity&Global Challenges  4.0 SEM GRD TR      01:00P-02:50P STEV3028   S Miller
                                  C3                                                W       12:00P-12:50P IVES0101   S Miller
 3485             UNIV 150B  004  A3    FYE:Identity&Global Challenges  4.0 SEM GRD TR      01:00P-02:50P SALZ2024   D Malpica
                                  C3                                                W       12:00P-12:50P IVES0101   D Malpica
-3486             UNIV 150B  005  A3    FYE:Identity&Global Challenges  4.0 SEM GRD TR      03:00P-04:50P CARS0010   T Wandling
-                                 C3                                                W       12:00P-12:50P IVES0101   T Wandling
-3487             UNIV 150B  006  A3    FYE:Identity&Global Challenges  4.0 SEM GRD MW      02:00P-03:50P IVES0035   D Bozman-Moss
-                                 C3                                                W       12:00P-12:50P IVES0101   D Bozman-Moss
-3488             UNIV 150B  007  A3    FYE:Identity&Global Challenges  4.0 SEM GRD MW      02:00P-03:50P STEV3077   C Boaz
-                                 C3                                                W       12:00P-12:50P IVES0101   C Boaz
-3489             UNIV 150B  008  A3    FYE:Identity&Global Challenges  4.0 SEM GRD MW      04:00P-05:50P STEV3049   M Santos
-                                 C3                                                W       12:00P-12:50P IVES0101   M Santos
-3490             UNIV 150B  009  A3    FYE:Identity&Global Challenges  4.0 SEM GRD MW      04:00P-05:50P NICH0242   M Anderson
-                                 C3                                                W       12:00P-12:50P IVES0101   M Anderson
-4076             UNIV 222   001  C2    Living in a Changing World      4.0 LEC GRD MW      08:00A-09:50A GMC WEILL  H Kornfeld
-4077             UNIV 238   001  E     Foundations of Leadership       3.0 LEC GRD M       12:00P-12:50P IVES0101   J Greathouse
+3486             UNIV 150B  005  A3    FYE:Identity&Global Challenges  4.0 SEM GRD TR      03:00P-04:50P CARS0010   D Monroe
+                                 C3                                                W       12:00P-12:50P IVES0101   D Monroe
+3487             UNIV 150B  006  A3    FYE:Identity&Global Challenges  4.0 SEM GRD MW      02:00P-03:50P IVES0035   W Connolly
+                                 C3                                                W       12:00P-12:50P IVES0101   W Connolly
+3488             UNIV 150B  007  A3    FYE:Identity&Global Challenges  4.0 SEM GRD MW      02:00P-03:50P STEV3077   S Hawkins
+                                 C3                                                W       12:00P-12:50P IVES0101   S Hawkins
+3489             UNIV 150B  008  A3    FYE:Identity&Global Challenges  4.0 SEM GRD MW      04:00P-05:50P STEV3049   N Middleton
+                                 C3                                                W       12:00P-12:50P IVES0101   N Middleton
+3490             UNIV 150B  009  A3    FYE:Identity&Global Challenges  4.0 SEM GRD MW      04:00P-05:50P NICH0242   G Goldstein
+                                 C3                                                W       12:00P-12:50P IVES0101   G Goldstein
+4076             UNIV 222   001  C2    Living in a Changing World      4.0 LEC GRD MW      08:00A-09:50A GMC WEILL  T Watts
+4077             UNIV 238   001  E     Foundations of Leadership       3.0 LEC GRD M       12:00P-12:50P IVES0101   J Johnston
                  UNIV 238   002  E     Foundations of Leadership           DIS     T       10:00A-11:50A SALZ2024   STAFF
-4079             UNIV 238   003  E     Foundations of Leadership       3.0 LEC GRD M       12:00P-12:50P IVES0101   J Greathouse
+4079             UNIV 238   003  E     Foundations of Leadership       3.0 LEC GRD M       12:00P-12:50P IVES0101   J Johnston
                  UNIV 238   004  E     Foundations of Leadership           DIS     R       10:00A-11:50A SALZ2024   STAFF
-4081             UNIV 238   005  E     Foundations of Leadership       3.0 LEC GRD M       12:00P-12:50P IVES0101   J Greathouse
+4081             UNIV 238   005  E     Foundations of Leadership       3.0 LEC GRD M       12:00P-12:50P IVES0101   J Johnston
                  UNIV 238   006  E     Foundations of Leadership           DIS     T       05:00P-06:50P STEV3049   STAFF
-4083             UNIV 238   007  E     Foundations of Leadership       3.0 LEC GRD M       12:00P-12:50P IVES0101   J Greathouse
+4083             UNIV 238   007  E     Foundations of Leadership       3.0 LEC GRD M       12:00P-12:50P IVES0101   J Johnston
                  UNIV 238   008  E     Foundations of Leadership           DIS     R       05:00P-06:50P STEV3049   STAFF
-4085             UNIV 238   009  E     Foundations of Leadership       3.0 LEC GRD M       12:00P-12:50P IVES0101   J Greathouse
+4085             UNIV 238   009  E     Foundations of Leadership       3.0 LEC GRD M       12:00P-12:50P IVES0101   J Johnston
                  UNIV 238   010  E     Foundations of Leadership           DIS     M       02:00P-03:50P IVES0079   STAFF
-4087             UNIV 238   011  E     Foundations of Leadership       3.0 LEC GRD M       12:00P-12:50P IVES0101   J Greathouse
+4087             UNIV 238   011  E     Foundations of Leadership       3.0 LEC GRD M       12:00P-12:50P IVES0101   J Johnston
                  UNIV 238   012  E     Foundations of Leadership           DIS     W       02:00P-03:50P IVES0079   STAFF
-4219             UNIV 238   013  E     Foundations of Leadership       3.0 LEC GRD M       12:00P-12:50P IVES0101   J Greathouse
+4219             UNIV 238   013  E     Foundations of Leadership       3.0 LEC GRD M       12:00P-12:50P IVES0101   J Johnston
                  UNIV 238   014  E     Foundations of Leadership           DIS     F       10:00A-11:50A SALZ2024   STAFF
 Women’s and Gender Studies
 ------------------------------------------------------------------------------------------------------------------------------
-1037   11        WGS  280   001  E     Women'sBodies:Health&Image      4.0 LEC OPT M       02:00P-05:40P CARS0020   L McQuade
-1347             WGS  285   001  E     Men and Masculinity             4.0 LEC OPT F       01:00P-04:40P CARS0020   T Josephson
-1059             WGS  301   001        Queer Studies Lecture Series    1.0 LEC CNC R       12:00P-12:50P STEV1002   L McQuade
-1267             WGS  311   001        Circle of Sisters               1.0 SEM OPT F       12:00P-12:50P CARS0020   C Tung
-1066   11        WGS  350   001  E     Gender, Sexuality & Family      4.0 LEC OPT F       08:00A-11:40A CARS0020   C Tung
-1178   11        WGS  350   002  E     Gender, Sexuality & Family      4.0 LEC OPT W       02:00P-05:40P CARS0020   C Tung
-4152   8         WGS  360   001        Latino Cultural Studies         4.0 DIS GRD MW      10:00A-11:50A NICH0173   P Kim
-3750   8         WGS  365   001        Women'sHist&Women'sActivism     3.0 LEC OPT R       09:00A-11:40A CARS0020   L McQuade
-1010   11,16     WGS  375   001  *ET   Gender, Race and Class          3.0 LEC OPT M       09:00A-11:40A CARS0020   D Romesburg
+1037   11        WGS  280   001  E     Women'sBodies:Health&Image      4.0 LEC OPT M       02:00P-05:40P CARS0020   E Barton
+1347             WGS  285   001  E     Men and Masculinity             4.0 LEC OPT F       01:00P-04:40P CARS0020   S Weeks
+1059             WGS  301   001        Queer Studies Lecture Series    1.0 LEC CNC R       12:00P-12:50P STEV1002   E Barton
+1267             WGS  311   001        Circle of Sisters               1.0 SEM OPT F       12:00P-12:50P CARS0020   E Hall
+1066   11        WGS  350   001  E     Gender, Sexuality & Family      4.0 LEC OPT F       08:00A-11:40A CARS0020   E Hall
+1178   11        WGS  350   002  E     Gender, Sexuality & Family      4.0 LEC OPT W       02:00P-05:40P CARS0020   E Hall
+4152   8         WGS  360   001        Latino Cultural Studies         4.0 DIS GRD MW      10:00A-11:50A NICH0173   P Wilkerson
+3750   8         WGS  365   001        Women'sHist&Women'sActivism     3.0 LEC OPT R       09:00A-11:40A CARS0020   E Barton
+1010   11,16     WGS  375   001  *ET   Gender, Race and Class          3.0 LEC OPT M       09:00A-11:40A CARS0020   K Bender
                                  D1
-3773   2,12,22   WGS  375   002  *ET   Gender, Race and Class          3.0 LEC OPT R       06:00P-08:40P UKIAH      M ChurchillClass                                                                           
+3773   2,12,22   WGS  375   002  *ET   Gender, Race and Class          3.0 LEC OPT R       06:00P-08:40P UKIAH      B Walton                                                                           
 Nbr    Footnotes Subj Cat#  Sect GE   Title                          UnitsTyp Bas Days    SpecialDates  BldgRm     Instructor
                                  D1
-1124   1         WGS  390   001        Gender and Work                 4.0 SEM OPT W       08:00A-11:40A CARS0020   C Tung
-4053             WGS  405   001        Psychology of Gender            4.0 SEM GRD M       08:00A-11:40A STEV3077   M Paolucci
-4153   8         WGS  449   001        Gender & Sexuality in Latin Am  4.0 SEM GRD T       08:00A-11:40A STEV2079   T Alfaro Velcamp
-1235   1,8       WGS  455   001        Queer Theory, Queer Lives       4.0 LEC OPT MW      12:00P-01:50P CARS0020   D Romesburg
-1123   2         WGS  485   001        Senior Seminar                  4.0 SEM OPT T       08:00A-11:40A CARS0020   L McQuade
+1124   1         WGS  390   001        Gender and Work                 4.0 SEM OPT W       08:00A-11:40A CARS0020   E Hall
+4053             WGS  405   001        Psychology of Gender            4.0 SEM GRD M       08:00A-11:40A STEV3077   D Ross
+4153   8         WGS  449   001        Gender & Sexuality in Latin Am  4.0 SEM GRD T       08:00A-11:40A STEV2079   D Chang
+1235   1,8       WGS  455   001        Queer Theory, Queer Lives       4.0 LEC OPT MW      12:00P-01:50P CARS0020   K Bender
+1123   2         WGS  485   001        Senior Seminar                  4.0 SEM OPT T       08:00A-11:40A CARS0020   P Woods
 1512             WGS  495   001        Special Studies                 4.0 SUP OPT         ARRANGE

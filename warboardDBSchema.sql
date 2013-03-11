@@ -67,7 +67,7 @@ CREATE TABLE employee (
 DROP TABLE IF EXISTS course; 
 
 CREATE TABLE course (
-	course_number		int				NOT NULL,
+	course_number		varchar(4)		NOT NULL,
 	subject_abbr		varchar(5)		NOT NULL,
 	cat_number			varchar(5)		NOT NULL,
 	section_number		int				NOT NULL,
@@ -76,7 +76,9 @@ CREATE TABLE course (
 	days_of_week		varchar(5)		NOT NULL,
 	building_abbr		varchar(5)		NOT NULL,
 	room_number			varchar(5)		NOT NULL,
-	employee_id			varchar(9)		NOT NULL,
+	start_time			time,		
+	end_time			time,		
+	employee_id			varchar(9),
 	PRIMARY KEY(course_number)
 );
 

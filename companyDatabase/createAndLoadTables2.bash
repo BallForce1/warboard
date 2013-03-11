@@ -1,15 +1,14 @@
 #! /bin/bash
 
 echo 'Creating DB schema starts'
-mysql --password='ta0163' --user=ataylor  < warboardDBSchema.sql
+mysql --password='ta0163' --user=ataylor  < companyDBSchema.sql
 echo 'Creating DB schema ends'
 
-for dataFile in   buildings.sql rooms.sql cart.sql cart_type.sql cart_equipment.sql employee.sql; do
+for dataFile in   employee.sql project.sql dependent.sql worksOn.sql deptLocation.sql department.sql; do
     echo "Poplulating table $(echo $dataFile | sed 's/\.sql//')."
     mysql --password='ta0163' --user=ataylor  < $dataFile
     echo "Poplulating table $(echo $dataFile | sed 's/\.sql//') completed."
 done
-	##python ./scripts/populate_courses.py
 
 ## The above loop can be replace by these statements.
 ## mysql --password='yourMySQLpassword' --user=yourMySQLloginName  < employee.sql
