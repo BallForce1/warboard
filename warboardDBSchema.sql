@@ -33,10 +33,12 @@ DROP TABLE IF EXISTS cart;
 CREATE TABLE cart (
 	cart_id			varchar(20)			NOT NULL,
 	cart_type	varchar(10)			NOT NULL,
+        room_num			varchar(5)		NOT NULL,
 	PRIMARY KEY(cart_id)
 );
 
 ALTER TABLE cart ADD CONSTRAINT cart_type_name_refs_cart_type_cart_type_name FOREIGN KEY (cart_type) REFERENCES cart_type (cart_type_name);
+ALTER TABLE cart ADD CONSTRAINT cart_refs_room_number FOREIGN KEY (room_num) REFERENCES room (room_number);
 
 DROP TABLE IF EXISTS cart_type;
 

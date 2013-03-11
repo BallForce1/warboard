@@ -41,3 +41,8 @@ VERSION/CHANGELOG
 * updated mysql schema to create course table
 * created script to populate the coarse table
 
+<<<<<<< HEAD
+=======
+
+Changes****
+>>>>>>> b7d25cf5539d423f12aee2e881b8e14f480e411d
