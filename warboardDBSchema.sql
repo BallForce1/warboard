@@ -31,14 +31,16 @@ CREATE TABLE faculty_member (
 DROP TABLE IF EXISTS cart;
 
 CREATE TABLE cart (
-	cart_id			varchar(20)			NOT NULL,
-	cart_type	varchar(10)			NOT NULL,
-        room_num			varchar(5)		NOT NULL,
+	cart_id			varchar(20)		NOT NULL,
+	cart_type	    varchar(10)	    NOT NULL,
+    building_abbr   varchar(5)      NOT NULL,
+    room_num		varchar(5)		NOT NULL,
 	PRIMARY KEY(cart_id)
 );
 
 ALTER TABLE cart ADD CONSTRAINT cart_type_name_refs_cart_type_cart_type_name FOREIGN KEY (cart_type) REFERENCES cart_type (cart_type_name);
-ALTER TABLE cart ADD CONSTRAINT cart_refs_room_number FOREIGN KEY (room_num) REFERENCES room (room_number);
+ALTER TABLE cart ADD CONSTRAINT room_num_refs_room_number FOREIGN KEY (room_num) REFERENCES room (room_number);
+ALTER TABLE cart ADD CONSTRAINT building_abbr_refs_building_abbr FOREIGN KEY (building_abbr) REFERENCES buildings (building_abbr);
 
 DROP TABLE IF EXISTS cart_type;
 
@@ -88,6 +90,22 @@ ALTER TABLE course ADD CONSTRAINT building_abbr_refs_building_abbr FOREIGN KEY (
 ALTER TABLE course ADD CONSTRAINT room_number_refs_room_number FOREIGN KEY (room_number) REFERENCES room (room_number);
 ALTER TABLE course ADD CONSTRAINT employee_id_refs_employee_id FOREIGN KEY (employee_id) REFERENCES faculty_member (employee_id);
 
+DROP TABLE IF EXISTS delivery;
+
+CREATE TABLE delivery (
+    delivery_number     varchar(4)      NOT NULL,
+    start_date          date            NOT NULL,
+    end_date            date            NOT NULL,
+    delivery_time       time            NOT NULL,
+    pickup_time         time            NOT NULL,
+    is_approved         bit             NOT NULL,
+    key_needed          varchar(2)      NOT NULL,
+    employee_id         varchar(9)      NOT NULL,
+    PRIMARY KEY(delivery_number)
+);
+
+
+    
 
 set @@foreign_key_checks = 1;
 
