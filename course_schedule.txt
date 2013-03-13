@@ -1,4 +1,3 @@
-3830             AMCS 160B  001  C3    Humanities Learning Community   2.0 LEC GRD T       01:00P-02:50P CARS0068   Joanna Hoover
 2108             AMCS 200   001  A1    Written and Oral Analysis       3.0 LEC OPT W       01:00P-03:40P NICH0173   Grace Stark
 1762   16        AMCS 210   001  *ET   Ethnic Groups in America        4.0 LEC OPT R       01:00P-04:40P STEV2006   Sidney Terrell
 3825             AMCS 225   001  *ET   How Racism Works: Amer in B&W   4.0 LEC GRD MW      10:00A-11:50A CARS0068   Marc Denton

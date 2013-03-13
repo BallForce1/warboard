@@ -40,7 +40,7 @@ def main():
             for row in reader:
                 emplString = format_emplid(employeeNumber)
                 employeeNumber = 1 + employeeNumber
-                cur.execute("""INSERT INTO faculty_member (first_name, last_name, employee_id)                                                
+                cur.execute("""INSERT INTO faculty_member (first_name, last_name, faculty_id)                                                
                                     VALUES (%s,%s,%s)""",
                                     (row[0], row[1], emplString))
                 

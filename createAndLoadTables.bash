@@ -4,7 +4,7 @@ echo 'Creating DB schema starts'
 mysql --password='ta0163' --user=ataylor  < warboardDBSchema.sql
 echo 'Creating DB schema ends'
 
-for dataFile in   buildings.sql rooms.sql cart.sql cart_type.sql cart_equipment.sql employee.sql; do
+for dataFile in   buildings.sql rooms.sql cart.sql cart_type.sql cart_equipment.sql employee.sql delivery.sql; do
     echo "Poplulating table $(echo $dataFile | sed 's/\.sql//')."
     mysql --password='ta0163' --user=ataylor  < $dataFile
     echo "Poplulating table $(echo $dataFile | sed 's/\.sql//') completed."

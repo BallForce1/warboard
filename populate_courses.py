@@ -83,7 +83,7 @@ def main():
                 cur.execute("""INSERT INTO course (course_number, subject_abbr, cat_number, 
                                                 section_number, course_title, number_units, 
                                                 days_of_week, building_abbr, room_number, 
-                                                start_time, end_time, employee_id) 
+                                                start_time, end_time, faculty_id) 
                                                 VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)""",
                             (line[0:4], line[17:21], line[22:27], line[28:30],
                             line[39:70], line[71], line[83:88], line[105:109],
