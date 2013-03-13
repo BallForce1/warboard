@@ -30,7 +30,11 @@ def main():
 
         cur = con.cursor()
  
+<<<<<<< HEAD
         print "Poplulating table faculty_member."
+=======
+        print "Populating table faculty_member."
+>>>>>>> e5485b03e3061492ad528e8332b9d2f8682f0f52
    
         cur.execute("DELETE FROM faculty_member;")
     
@@ -46,7 +50,11 @@ def main():
                 
  
   
+<<<<<<< HEAD
         print "Poplulating table faculty_member completed."
+=======
+        print "Populating table faculty_member completed."
+>>>>>>> e5485b03e3061492ad528e8332b9d2f8682f0f52
 
     except mdb.Error, e:
         print "Error %d: %s" % (e.args[0],e.args[1])

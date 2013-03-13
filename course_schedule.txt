@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 3830             AMCS 160B  001  C3    Humanities Learning Community   2.0 LEC GRD T       01:00P-02:50P CARS0068   Joanna Hoover
+=======
+>>>>>>> e5485b03e3061492ad528e8332b9d2f8682f0f52
 2108             AMCS 200   001  A1    Written and Oral Analysis       3.0 LEC OPT W       01:00P-03:40P NICH0173   Grace Stark
 1762   16        AMCS 210   001  *ET   Ethnic Groups in America        4.0 LEC OPT R       01:00P-04:40P STEV2006   Sidney Terrell
 3825             AMCS 225   001  *ET   How Racism Works: Amer in B&W   4.0 LEC GRD MW      10:00A-11:50A CARS0068   Marc Denton
@@ -717,7 +720,10 @@
 2369   1,5,7,23  EDMS 476F  001        Participant Observation         3.0 SUP CNC         ARRANGE                  Marsha Chang
 2406             EDMS 476S  001        Participant Observation Sem     2.0 SEM GRD M       10:00A-11:50A SALZ2022   Marc Harrington
 2416   44        EDMS 476S  002        Participant Observation Sem     2.0 SEM GRD M       05:00P-06:50P STEV2050   Christina Harris
+<<<<<<< HEAD
 2366   5,7       EDMS 482F  001        Student Teaching and Seminar   10.0 SUP CNC         ARRANGE                  Nicholas Godfrey
+=======
+>>>>>>> e5485b03e3061492ad528e8332b9d2f8682f0f52
 2407             EDMS 482S  001        Student Teaching Seminar        2.0 SEM CNC         ARRANGE                  Hazel Lloyd
 2515             EDMS 495   001        Extended Studies in Pedagogy    3.0 SUP GRD         ARRANGE                  Audrey Forrest
 2417             EDRL 521A  001        Language Dev:1st/2nd Languages  3.0 SEM GRD W       04:00P-06:40P STEV3082   Shelley Weeks
@@ -744,7 +750,10 @@
 2386   5,26      EDSS 443A  001        Observ/Part in Multicult Setng  2.0 SUP CNC         ARRANGE                  Troy Jones
 2384   5         EDSS 443B  001        Sem:Clsroom Mgmt & Field Exper  3.0 SEM GRD W       01:00P-03:40P SALZ2022   Mark Becker
 2385   7         EDSS 446   001        Lang Lit Curr: Mid/Sec School   4.0 LEC GRD R       04:00P-06:40P SALZ2022   Bradley Beatty
+<<<<<<< HEAD
 2370   5,26      EDSS 458   001        Student Tch: Multicult Setting 12.0 SUP CNC         ARRANGE                  Jessica Teague
+=======
+>>>>>>> e5485b03e3061492ad528e8332b9d2f8682f0f52
 2371   5         EDSS 459   001        Seminar: Secondary Stdnt Tchrs  4.0 SEM GRD M       04:00P-07:40P STEV3040   Alex Henry
 2408             EDSS 459   002        Seminar: Secondary Stdnt Tchrs  4.0 SEM GRD T       04:00P-07:40P STEV3076   Wesley Teague
 2511             EDSS 495   001        Observ & Particip in Music      3.0 SUP GRD         ARRANGE                  Carrie Watson
@@ -1337,6 +1346,7 @@
 2590   29        MATH 367   001        Stats Consulting&Communication  2.0 DIS GRD R       06:00P-07:50P DARW0102   Pauline Chandler
 2561             MATH 375   001        M*A*T*H Colloquium              1.0 DIS OPT W       04:00P-04:50P DARW0103   Roberta Zhang
 2959             MATH 381   001        Computing for Statistics: SAS   2.0 DIS OPT MW      06:00P-06:50P DARW0031   Frances Wagner
+<<<<<<< HEAD
 2755             MATH 399   001        Practicum in Mathematics       ***  SUP CNC         ARRANGE                  Barbara Smith
 2756             MATH 399   002        Practicum in Mathematics       ***  SUP CNC         ARRANGE                  Luis Hinton
 2757             MATH 399   003        Practicum in Mathematics       ***  SUP CNC         ARRANGE                  Marlene Wiggins
@@ -1346,6 +1356,8 @@
 3020             MATH 399   007        Practicum in Mathematics       ***  SUP CNC         ARRANGE                  Kelly Bowman
 3021             MATH 399   008        Practicum in Mathematics       ***  SUP CNC         ARRANGE                  Judy Branch
 3022             MATH 399   009        Practicum in Mathematics       ***  SUP CNC         ARRANGE                  Carlos Erickson
+=======
+>>>>>>> e5485b03e3061492ad528e8332b9d2f8682f0f52
 2741             MATH 416   001        Graph Theory and Combinatorics  3.0 DIS OPT MW      10:45A-12:00P STEV3049   Peter Hughes
 3287             MATH 431   001        Partl Diff Eq & Lin Transforms  3.0 DIS OPT MW      09:20A-10:35A STEV3044   Ben West
 2960             MATH 445   001        Math Stats &Operation Research  4.0 DIS OPT TR      01:00P-02:50P STEV2050   Rose McCall
@@ -1917,3 +1929,7 @@
 1235   1,8       WGS  455   001        Queer Theory, Queer Lives       4.0 LEC OPT MW      12:00P-01:50P CARS0020   Wallace Kaplan
 1123   2         WGS  485   001        Senior Seminar                  4.0 SEM OPT T       08:00A-11:40A CARS0020   Katie May
 1512             WGS  495   001        Special Studies                 4.0 SUP OPT         ARRANG                   Raymond Hawley
+<<<<<<< HEAD
+=======
+
+>>>>>>> e5485b03e3061492ad528e8332b9d2f8682f0f52

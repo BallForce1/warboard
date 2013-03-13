@@ -66,7 +66,11 @@ def main():
             'ta0163', 'warboard');
         cur = con.cursor()
 
+<<<<<<< HEAD
         print "Poplulating table course."   
+=======
+        print "Populating table course."   
+>>>>>>> e5485b03e3061492ad528e8332b9d2f8682f0f52
         cur.execute("DELETE FROM course;")
         
         lineCount = 0
@@ -90,7 +94,11 @@ def main():
                             line[109:113], set_time(line[91:97]), set_time(line[98:104]),
                             find_emplID(line[116:], cur, lineCount, line) ))
         
+<<<<<<< HEAD
         print "Poplulating table course completed."   
+=======
+        print "Populating table course completed."   
+>>>>>>> e5485b03e3061492ad528e8332b9d2f8682f0f52
                     
     
     except mdb.Error, e:

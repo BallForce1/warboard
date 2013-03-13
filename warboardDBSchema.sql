@@ -96,6 +96,7 @@ ALTER TABLE course ADD CONSTRAINT building_abbr_refs_building_abbr FOREIGN KEY (
 ALTER TABLE course ADD CONSTRAINT room_number_refs_room_number FOREIGN KEY (room_number) REFERENCES room (room_number);
 ALTER TABLE course ADD CONSTRAINT faculty_id_refs_faculty_id FOREIGN KEY (faculty_id) REFERENCES faculty_member (faculty_id);
 
+<<<<<<< HEAD
 
 CREATE INDEX course_index ON course(course_number);
 
@@ -123,6 +124,32 @@ ALTER TABLE delivery ADD CONSTRAINT cart_type_refs_cart_type FOREIGN KEY (cart_t
 
 CREATE INDEX delivery_index ON delivery(delivery_number);
 
+=======
+CREATE INDEX course_index ON course(course_number);
+
+DROP TABLE IF EXISTS delivery;
+
+CREATE TABLE delivery (
+    delivery_number     varchar(4)      NOT NULL,
+    start_date          date            NOT NULL,
+    end_date            date            NOT NULL,
+    is_approved         varchar(1)      NOT NULL,
+    course_number       varchar(4)      NOT NULL,
+    cart_type           varchar(10)     NOT NULL,
+    employee_id         varchar(9)      NOT NULL,
+    faculty_id          varchar(50)     NOT NULL,
+    key_number          varchar(2)      NOT NULL,
+    PRIMARY KEY(delivery_number)
+);
+ALTER TABLE delivery ADD CONSTRAINT key_number_refs_key_number FOREIGN KEY (key_number) REFERENCES building_key (key_number);
+ALTER TABLE delivery ADD CONSTRAINT employee_id_refs_employee_id FOREIGN KEY (employee_id) REFERENCES employee (employee_id);
+ALTER TABLE delivery ADD CONSTRAINT faculty_id_refs_faculty_id FOREIGN KEY (faculty_id) REFERENCES faculty_member (faculty_id);
+ALTER TABLE delivery ADD CONSTRAINT course_number_refs_course_number FOREIGN KEY (course_number) REFERENCES course (course_number);
+ALTER TABLE delivery ADD CONSTRAINT cart_type_refs_cart_type FOREIGN KEY (cart_type) REFERENCES cart_type (cart_type);
+
+CREATE INDEX delivery_index ON delivery(delivery_number);
+
+>>>>>>> e5485b03e3061492ad528e8332b9d2f8682f0f52
 DROP TABLE IF EXISTS building_key;
 
 CREATE TABLE building_key (
