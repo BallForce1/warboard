@@ -294,3 +294,35 @@ ls
 mysql -p -u ataylor
 ls
 mysql -p -u ataylor
+mysql -p -u ataylor
+cd scripts/
+ls
+pythn populate_courses.py 
+python populate_courses.py 
+ls
+cd ..
+ls 
+cd scripts/
+ls
+python populate_courses.py 
+ls
+python populate_courses.py 
+ls
+python populate_courses.py 
+ls
+python populate_courses.py 
+clear
+python populate_courses.py 
+ls
+mysql -p -u ataylor
+cd scripts/
+ls
+python populate_courses.py 
+mysql -p -u ataylor
+ls
+cd scripts
+ls
+python populate_courses.py 
+mysql -p -u ataylor
+ls
+python populate_courses.py 
