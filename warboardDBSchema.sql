@@ -12,8 +12,8 @@ CREATE TABLE buildings (
 DROP TABLE IF EXISTS room;
 
 CREATE TABLE room (
-	building_abbr		varchar(20)		NOT NULL,
-	room_number			varchar(5)		NOT NULL,
+	building_abbr		        varchar(20)		        NOT NULL,
+	room_number			varchar(5)		        NOT NULL,
 	PRIMARY KEY(building_abbr, room_number)
 );	
 
@@ -32,7 +32,7 @@ DROP TABLE IF EXISTS cart;
 
 CREATE TABLE cart (
 	cart_id			varchar(20)			NOT NULL,
-	cart_type	varchar(10)			NOT NULL,
+	cart_type	varchar(10)			        NOT NULL,
         room_num			varchar(5)		NOT NULL,
 	PRIMARY KEY(cart_id)
 );
@@ -65,6 +65,15 @@ CREATE TABLE employee (
 	employee_id		varchar(9)			NOT NULL UNIQUE,
 	PRIMARY KEY(employee_id)
 );
+
+DROP TABLE IF EXISTS building_key;
+
+CREATE TABLE building_key (
+	key_number	     varchar(2)		        NOT NULL,
+	building_abbr	     varchar(5)			NOT NULL,
+	PRIMARY KEY(key_number)
+);
+
 
 DROP TABLE IF EXISTS course; 
 
